@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a highly motivated and detail-oriented cybersecurity analyst, constantly learning new tools and technologies in the field. I actively identify and analyze potential risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of assets, helping to safeguard organizations and individuals alike.
+I am a highly motivated and detail-oriented IT professional with over 15 years of experience in several industries and constantly learning new tools and technologies in the field. I actively identify and analyze potential risks, threats, and vulnerabilities to ensure the confidentiality, integrity, and availability of assets, helping to safeguard organizations and individuals alike.
 
 <!--
 **tofeeq1982/tofeeq1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
